@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|c:\\proyectos .net\\prueba cqrs\\cqrs.web.api\\cqrs.web.api\\infrastructure\\services\\propuestarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|solutionrelative:cqrs.web.api\\infrastructure\\services\\propuestarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|c:\\proyectos .net\\prueba cqrs\\cqrs.web.api\\cqrs.web.api\\infrastructure\\dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|solutionrelative:cqrs.web.api\\infrastructure\\dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|c:\\proyectos .net\\prueba cqrs\\cqrs.web.api\\cqrs.web.api\\infrastructure\\services\\contracts\\ipropuestarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|solutionrelative:cqrs.web.api\\infrastructure\\services\\contracts\\ipropuestarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|c:\\proyectos .net\\prueba cqrs\\cqrs.web.api\\cqrs.web.api\\controllers\\propuestascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|solutionrelative:cqrs.web.api\\controllers\\propuestascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|c:\\proyectos .net\\prueba cqrs\\cqrs.web.api\\cqrs.web.api\\application\\handlers\\deletepropuestahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|solutionrelative:cqrs.web.api\\application\\handlers\\deletepropuestahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|c:\\proyectos .net\\prueba cqrs\\cqrs.web.api\\cqrs.web.api\\application\\handlers\\createpropuestahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EE76BA-0D9A-4DD6-A0AE-9D30DFB91CDA}|CQRS.Web.API\\CQRS.Web.API.csproj|solutionrelative:cqrs.web.api\\application\\handlers\\createpropuestahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeletePropuestaHandler.cs",
+              "DocumentMoniker": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Application\\Handlers\\DeletePropuestaHandler.cs",
+              "RelativeDocumentMoniker": "CQRS.Web.API\\Application\\Handlers\\DeletePropuestaHandler.cs",
+              "ToolTip": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Application\\Handlers\\DeletePropuestaHandler.cs",
+              "RelativeToolTip": "CQRS.Web.API\\Application\\Handlers\\DeletePropuestaHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:46:08.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Infrastructure\\DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CQRS.Web.API\\Infrastructure\\DataAccess\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Infrastructure\\DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "CQRS.Web.API\\Infrastructure\\DataAccess\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAWwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:39:33.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPropuestaRepository.cs",
+              "DocumentMoniker": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Infrastructure\\Services\\Contracts\\IPropuestaRepository.cs",
+              "RelativeDocumentMoniker": "CQRS.Web.API\\Infrastructure\\Services\\Contracts\\IPropuestaRepository.cs",
+              "ToolTip": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Infrastructure\\Services\\Contracts\\IPropuestaRepository.cs",
+              "RelativeToolTip": "CQRS.Web.API\\Infrastructure\\Services\\Contracts\\IPropuestaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:37:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropuestaRepository.cs",
+              "DocumentMoniker": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Infrastructure\\Services\\PropuestaRepository.cs",
+              "RelativeDocumentMoniker": "CQRS.Web.API\\Infrastructure\\Services\\PropuestaRepository.cs",
+              "ToolTip": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Infrastructure\\Services\\PropuestaRepository.cs",
+              "RelativeToolTip": "CQRS.Web.API\\Infrastructure\\Services\\PropuestaRepository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAArwGMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:03:30.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropuestasController.cs",
+              "DocumentMoniker": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Controllers\\PropuestasController.cs",
+              "RelativeDocumentMoniker": "CQRS.Web.API\\Controllers\\PropuestasController.cs",
+              "ToolTip": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Controllers\\PropuestasController.cs",
+              "RelativeToolTip": "CQRS.Web.API\\Controllers\\PropuestasController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADgvx8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:56:48.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePropuestaHandler.cs",
+              "DocumentMoniker": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Application\\Handlers\\CreatePropuestaHandler.cs",
+              "RelativeDocumentMoniker": "CQRS.Web.API\\Application\\Handlers\\CreatePropuestaHandler.cs",
+              "ToolTip": "C:\\Proyectos .Net\\Prueba CQRS\\CQRS.Web.API\\CQRS.Web.API\\Application\\Handlers\\CreatePropuestaHandler.cs",
+              "RelativeToolTip": "CQRS.Web.API\\Application\\Handlers\\CreatePropuestaHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:31:26.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

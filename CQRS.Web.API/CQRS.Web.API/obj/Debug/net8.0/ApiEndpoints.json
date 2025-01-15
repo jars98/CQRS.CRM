@@ -1,0 +1,127 @@
+[
+  {
+    "ContainingType": "CQRS.Web.API.Controllers.PropuestasController",
+    "Method": "ActualizarPropuesta",
+    "RelativePath": "api/Propuestas/Actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CQRS.Web.API.Infrastructure.Commands.Propuestas.UpdatePropuestaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CQRS.Web.API.Application.ViewModels.PropuestaDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CQRS.Web.API.Controllers.PropuestasController",
+    "Method": "EliminarPropuesta",
+    "RelativePath": "api/Propuestas/Eliminar/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRS.Web.API.Controllers.PropuestasController",
+    "Method": "CrearPropuesta",
+    "RelativePath": "api/Propuestas/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CQRS.Web.API.Infrastructure.Commands.Propuestas.CreatePropuestaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CQRS.Web.API.Application.ViewModels.PropuestaDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CQRS.Web.API.Controllers.PropuestasController",
+    "Method": "ObtenerPropuestas",
+    "RelativePath": "api/Propuestas/Listado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRS.Web.API.Controllers.PropuestasController",
+    "Method": "ObtenerById",
+    "RelativePath": "api/Propuestas/Obtener",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CQRS.Web.API.Application.ViewModels.PropuestaDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CQRS.Web.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CQRS.Web.API.WeatherForecast, CQRS.Web.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
